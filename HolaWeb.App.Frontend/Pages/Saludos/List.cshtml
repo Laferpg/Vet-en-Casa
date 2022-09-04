@@ -1,0 +1,21 @@
+﻿@page
+@model HolaWeb.App.Fronetend.pages.ListModel
+@{
+}
+<h1>Listado de Saludos en varios idiomas</h1> 
+<table class="table">
+    @foreach (var saludo in Model.Saludos)
+    {
+        <tr>
+            <td>@saludo.EnEspañol</td>
+            <td>@saludo.EnIngles</td>
+            <td>@saludo.EnItaliano</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-saludoId="@saludo.Id">
+                <i class="fas fa-info-circle"></i>
+                Detalle Saludo
+                </a>
+            </td>
+        </tr>
+    }
+</table>

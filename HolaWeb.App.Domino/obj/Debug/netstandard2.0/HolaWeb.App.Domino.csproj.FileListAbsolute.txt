@@ -1,0 +1,9 @@
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\bin\Debug\netstandard2.0\HolaWeb.App.Domino.deps.json
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\bin\Debug\netstandard2.0\HolaWeb.App.Domino.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\bin\Debug\netstandard2.0\HolaWeb.App.Domino.pdb
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\obj\Debug\netstandard2.0\HolaWeb.App.Domino.csprojAssemblyReference.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\obj\Debug\netstandard2.0\HolaWeb.App.Domino.AssemblyInfoInputs.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\obj\Debug\netstandard2.0\HolaWeb.App.Domino.AssemblyInfo.cs
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\obj\Debug\netstandard2.0\HolaWeb.App.Domino.csproj.CoreCompileInputs.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\obj\Debug\netstandard2.0\HolaWeb.App.Domino.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Domino\obj\Debug\netstandard2.0\HolaWeb.App.Domino.pdb
